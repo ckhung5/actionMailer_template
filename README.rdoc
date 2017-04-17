@@ -1,0 +1,19 @@
+== README
+
+This is a template using ActionMailer to send a confirmation to client's subscription/enquries and also send an email back to the owner about the customer's details.
+
+Note:
+
+Please install figaro gem to put in your email and email password.
+
+For heroku deployment:
+
+You can configure your email and email password in heroku settings.
+
+Database:
+SQL lite 3
+
+
+
+Thank you.
+
